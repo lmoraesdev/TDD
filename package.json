@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "Emerson Laranja",
-    "github": "EmersonLaranja"
+    "name": "Leandro Moraes",
+    "github": "lmoraesdev"
   },
-  "description": "Projeto Node.js com TypeScript aplicando TDD",
+  "description": "typescript, express, mongodb, jest, supertest, tdd",
   "engines": {
     "node": ">= 20.0.0"
   },
